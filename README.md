@@ -6,9 +6,9 @@ Solution: To address this, we integrate another dataset containing approximately
 Features
 •	CXR Classification: Detects and categorizes chest X-rays into various diagnostic conditions ( ).
 •	Input Image Validation: Differentiates chest X-ray images from other types of images to prevent errors.
-References: /n
-•	Chest X-ray Pneumonia Dataset :  https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-•	COVID-19 Radiography Database : https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+References: <br>
+•	Chest X-ray Pneumonia Dataset :  https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
+•	COVID-19 Radiography Database : https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database<br>
 Tools and Technologies:
 •	Python: For backend processing and model development.
 •	Keras/TensorFlow: For training and evaluation of deep learning models.
